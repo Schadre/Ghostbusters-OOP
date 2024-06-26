@@ -122,7 +122,7 @@ The main script starts the game and handles player input for saving/loading.
 ### Usage
 
 1. The script initializes the database and displays the game logo.
-2. It prompts the user to enter their name.
+2. It asks the user to enter their name.
 3. The user can choose to continue from their last save or start a new game.
 4. Based on the user's choice, the script either loads the saved game or creates a new player.
 5. The game loop starts, allowing the player to make choices and progress through levels.
