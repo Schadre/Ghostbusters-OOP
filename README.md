@@ -14,8 +14,6 @@ The Ghostbusters Game is a text-based adventure where you play as a ghostbuster.
 - [🎮 Game Class](#game-class)
 - [💾 Database Class](#database-class)
 - [📝 Main Script](#main-script)
-- [🖥 Example Output](#example-output)
-- [🔚 Conclusion](#conclusion)
 
 ## 🔧 Installation
 
